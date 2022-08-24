@@ -1,1 +1,1 @@
-bin/bashnschool
+echo 'The school is open' >bash/school
