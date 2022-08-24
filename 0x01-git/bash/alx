@@ -1,4 +1,4 @@
-echo ALX School >bash/alx
+echo 'ALX School' >bash/alx
 
 
 
