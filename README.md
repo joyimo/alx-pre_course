@@ -1,2 +1,2 @@
 My second readme
-The file has been updaed
+The file has been updated
